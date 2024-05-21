@@ -1,0 +1,575 @@
+"aa" = (/obj/structure/rack/wooden,/obj/item/perfume/amber{pixel_x = -8; pixel_y = 10},/obj/item/perfume/cologne{pixel_x = -4; pixel_y = 10},/obj/item/perfume/wood{pixel_y = 10},/obj/item/perfume/mint{pixel_x = 4; pixel_y = 10},/obj/item/perfume/cherry{pixel_x = -8; pixel_y = -5},/obj/item/perfume/jasmine{pixel_x = -4; pixel_y = -5},/obj/item/perfume/pear{pixel_y = -5},/obj/item/perfume/rose{pixel_x = 4; pixel_y = -5},/obj/item/perfume/vanilla{pixel_x = 8; pixel_y = 10},/obj/item/perfume/strawberry{pixel_x = 8; pixel_y = -5},/obj/structure/window/spawner/directional/east,/obj/effect/turf_decal/siding/wood{dir = 5},/obj/machinery/light/directional/west,/turf/open/floor/wood/large,/area/station/service/barber)
+"ae" = (/obj/machinery/door/airlock/research/glass{name = "Robotics Lab"},/turf/open/floor,/area/space)
+"ah" = (/obj/machinery/air_sensor/mix_tank,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"ai" = (/turf/closed/wall,/area/station/common/pool)
+"am" = (/obj/structure/chair/sofa/corp,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"aq" = (/obj/structure/cable,/turf/open/floor/catwalk_floor/iron,/area/space)
+"au" = (/obj/structure/cable,/obj/structure/cable,/turf/open/floor/plating,/area/space)
+"aK" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"aM" = (/obj/structure/lattice/catwalk,/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/fore)
+"be" = (/obj/machinery/door/airlock/multi_tile/public/glass{dir = 1; name = "Game Room"},/turf/open/floor/wood/large,/area/station/service/library)
+"bj" = (/turf/open/floor/iron/freezer,/area/station/commons/dorms/room2)
+"br" = (/obj/machinery/door/airlock/hydroponics/glass{name = "Hydroponics"},/turf/open/floor,/area/station/service/hydroponics)
+"bv" = (/obj/machinery/power/shuttle_engine/heater,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/window/reinforced/plasma/spawner/directional/south,/obj/structure/window/reinforced/plasma/spawner/directional/east,/turf/open/floor/iron/smooth,/area/station/maintenance/aft/lesser)
+"bx" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/east,/turf/open/floor,/area/station/service/chapel/office)
+"bF" = (/turf/open/floor/iron/cafeteria,/area/station/service/kitchen)
+"bO" = (/turf/open/floor/carpet,/area/station/service/library)
+"bR" = (/turf/open/floor/iron/chapel{dir = 8},/area/station/service/chapel)
+"ca" = (/obj/structure/displaycase/trophy,/turf/open/floor/carpet,/area/station/service/library)
+"cf" = (/obj/machinery/door/airlock/public/glass{name = "Aft Primary Hallway"},/turf/open/floor,/area/space)
+"cp" = (/obj/machinery/door/airlock/maintenance,/turf/open/floor/iron,/area/station/maintenance/port/aft)
+"ct" = (/obj/structure/hedge/opaque,/obj/structure/curtain/cloth/fancy/mechanical{icon_state = "bounty-open"; icon_type = "bounty"; id = "CCSalon"; name = "curtain"},/turf/open/floor,/area/station/service/barber)
+"cy" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/carpet,/area/station/service/library)
+"cD" = (/obj/structure/table/wood,/obj/item/reagent_containers/cup/bucket/wooden,/turf/open/floor/wood,/area/station/common/pool/sauna)
+"cG" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/north,/turf/open/floor/wood,/area/station/service/chapel/funeral)
+"cJ" = (/obj/machinery/door/morgue{name = "Private Study"; req_access = list("library")},/obj/effect/landmark/navigate_destination,/turf/open/floor/wood/large,/area/station/service/library)
+"de" = (/obj/structure/chair/sofa/corp,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"dk" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/turf/open/floor/plating,/area/station/maintenance/port/aft)
+"dl" = (/obj/structure/lattice/catwalk,/turf/closed/wall,/area/station/maintenance/port/aft)
+"dp" = (/obj/structure/chair/sofa/corp/left{dir = 1},/turf/open/floor,/area/space)
+"dC" = (/obj/structure/table/wood,/obj/item/flashlight/lantern{pixel_y = 7},/turf/open/floor/iron/dark,/area/station/service/chapel)
+"dG" = (/obj/machinery/atmospherics/components/unary/vent_pump/siphon/monitored/carbon_output,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"dN" = (/obj/machinery/shower/directional/north,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room3)
+"dO" = (/turf/open/floor/catwalk_floor/iron_white,/area/space)
+"dQ" = (/obj/structure/window/spawner/directional/south,/turf/open/floor/carpet/black,/area/station/service/barber)
+"dR" = (/obj/structure/lattice,/turf/closed/wall/r_wall,/area/station/engineering/atmos)
+"dZ" = (/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"eh" = (/obj/machinery/door/airlock{name = "Toilet Unit"},/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"em" = (/obj/structure/chair/sofa/corp{dir = 8},/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"er" = (/obj/machinery/door/airlock/public/glass{name = "Cryopods"},/turf/open/floor,/area/station/common/cryopods)
+"et" = (/obj/structure/table/glass,/obj/item/flashlight/lamp/green,/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room2)
+"ew" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/common/pool)
+"eA" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"eB" = (/obj/machinery/light/small/directional/east,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"eF" = (/obj/machinery/door/airlock/public/glass{name = "Central Hallway"},/turf/open/floor,/area/station/common/pool)
+"eG" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/north,/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"eK" = (/obj/structure/window/spawner/directional/west,/obj/structure/table/wood,/turf/open/floor/carpet,/area/station/service/library)
+"eM" = (/turf/open/floor/iron,/area/station/engineering/atmos)
+"eV" = (/turf/open/floor/wood,/area/station/common/pool)
+"eX" = (/obj/structure/chair/sofa/bench/corner{dir = 4},/turf/open/floor/wood,/area/station/common/pool/sauna)
+"fc" = (/obj/machinery/power/apc/auto_name/directional/east,/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"fi" = (/obj/structure/dresser,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"fm" = (/turf/closed/wall,/area/station/engineering/main)
+"fn" = (/obj/structure/chair/sofa/corp,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"fw" = (/obj/structure/cable,/obj/structure/cable,/turf/open/floor/catwalk_floor/iron,/area/space)
+"fy" = (/obj/structure/chair/sofa/corp/right{dir = 1},/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"fG" = (/obj/structure/table/reinforced/rglass,/turf/open/floor/carpet/black,/area/station/service/barber)
+"fH" = (/obj/structure/mineral_door/wood,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room2)
+"fL" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/turf/open/floor/plating,/area/station/maintenance/port/aft)
+"fO" = (/obj/machinery/door/airlock/public{name = "Kitchen"},/turf/open/floor/iron/cafeteria,/area/station/service/kitchen)
+"fP" = (/obj/machinery/door/airlock/public/glass{name = "Central Hallway"},/turf/open/floor/wood,/area/station/common/pool)
+"fR" = (/obj/machinery/door/airlock{name = "Kitchen Cold Room"},/turf/open/floor/iron/cafeteria,/area/station/service/kitchen)
+"fZ" = (/obj/machinery/door/airlock/public/glass{name = "Chapel"},/turf/open/floor,/area/station/service/chapel)
+"gj" = (/obj/machinery/power/smes{charge = 5e+006},/obj/structure/cable,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"gm" = (/obj/structure/table/glass,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"go" = (/obj/structure/cable,/obj/machinery/power/solar_control{id = "foreport"; name = "Port Bow Solar Control"; dir = 4},/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"gA" = (/obj/structure/towel_bin,/obj/structure/table,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"gB" = (/turf/open/floor,/area/space)
+"gD" = (/obj/machinery/shower/directional/south,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"gE" = (/obj/structure/chair/sofa/corp/corner,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"gF" = (/turf/closed/wall/r_wall,/area/station/hallway/primary/central)
+"gG" = (/obj/structure/chair/sofa/corp/left{dir = 8},/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"gK" = (/obj/machinery/door/airlock/public/glass{name = "Central Hallway"},/obj/structure/cable,/turf/open/floor,/area/station/commons/dorms/laundry)
+"gS" = (/obj/structure/cable,/obj/machinery/power/terminal{dir = 1},/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"gW" = (/obj/structure/chair/office/light{dir = 8},/obj/machinery/light/directional/north,/turf/open/floor/carpet/black,/area/station/service/barber)
+"gX" = (/obj/machinery/door/airlock{id_tag = "Dorm3"; name = "Dorm 3"},/obj/structure/cable,/turf/open/floor,/area/station/commons/dorms/room3)
+"hv" = (/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"hw" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"hK" = (/obj/effect/spawner/liquids_spawner,/obj/effect/spawner/liquids_spawner,/turf/open/floor/iron/pool,/area/station/common/pool)
+"hO" = (/obj/machinery/power/shuttle_engine/heater,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/window/reinforced/plasma/spawner/directional/south,/obj/structure/window/reinforced/plasma/spawner/directional/west,/turf/open/floor/iron/smooth,/area/station/maintenance/aft/lesser)
+"ie" = (/obj/structure/cable,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"ip" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/north,/turf/open/floor/iron,/area/station/engineering/atmos)
+"ir" = (/obj/structure/table/reinforced/rglass,/obj/item/reagent_containers/dropper{pixel_x = 3; pixel_y = 1},/obj/item/clothing/head/wig/natural,/obj/item/hhmirror,/obj/item/clothing/head/wig/random{pixel_x = 4; pixel_y = 3},/obj/machinery/light/directional/east,/turf/open/floor/wood/large,/area/station/service/barber)
+"iF" = (/obj/structure/lattice/catwalk,/obj/structure/lattice/catwalk,/obj/machinery/power/solar{id = "foreport"; name = "Fore-Port Solar Array"},/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/aft)
+"iL" = (/turf/open/floor/iron/chapel{dir = 1},/area/station/service/chapel)
+"iM" = (/turf/closed/wall,/area/station/service/kitchen/coldroom)
+"iU" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/atmospherics/pipe/smart/simple/green/visible{dir = 4},/turf/open/floor/plating,/area/station/engineering/atmos)
+"iY" = (/obj/structure/cable,/turf/open/floor/iron,/area/station/engineering/main)
+"je" = (/obj/structure/toilet{dir = 1},/turf/open/floor/iron/freezer,/area/station/commons/dorms/room3)
+"jp" = (/obj/machinery/door/airlock/maintenance{name = "Atmospherics Maintenance"},/turf/open/floor/plating,/area/station/service/library)
+"jq" = (/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"jE" = (/obj/structure/table/wood,/turf/open/floor/iron/chapel{dir = 8},/area/station/service/chapel)
+"jG" = (/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"jH" = (/obj/machinery/computer/holodeck{dir = 4},/turf/open/floor,/area/station/commons/fitness/recreation)
+"jQ" = (/obj/machinery/light/small/directional/west,/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"ki" = (/obj/structure/chair/sofa/corp/corner,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"kt" = (/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"kD" = (/obj/structure/cable,/obj/machinery/door/airlock/atmos{name = "Atmospherics"},/turf/open/floor/iron,/area/station/engineering/atmos)
+"kF" = (/obj/effect/spawner/structure/window,/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/commons/fitness/recreation)
+"kG" = (/obj/structure/cable,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"kI" = (/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"kP" = (/obj/structure/lattice,/obj/machinery/atmospherics/pipe/smart/simple/green/visible{dir = 4},/turf/open/space/basic,/area/space/nearstation)
+"lE" = (/obj/structure/cable,/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"lH" = (/obj/structure/cable,/turf/open/floor/iron,/area/station/engineering/atmos)
+"lQ" = (/obj/structure/table/wood,/obj/machinery/door/window/right/directional/north{base_state = "left"; dir = 8; icon_state = "left"; name = "Library Desk Door"; req_access = list("library")},/turf/open/floor/carpet,/area/station/service/library)
+"mq" = (/obj/structure/weightmachine/weightlifter,/turf/open/floor/iron/white,/area/station/commons/fitness)
+"my" = (/turf/open/floor/glass/reinforced,/area/station/commons/fitness/recreation)
+"nb" = (/turf/closed/wall,/area/station/common/pool/sauna)
+"nd" = (/obj/effect/turf_decal/bot_white/right,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"nm" = (/obj/machinery/door/airlock/maintenance{name = "Crematorium"},/turf/open/floor,/area/station/service/chapel/office)
+"nv" = (/turf/open/floor/iron/kitchen_coldroom/freezerfloor,/area/station/service/kitchen/coldroom)
+"nG" = (/turf/open/floor/iron,/area/space)
+"nJ" = (/obj/machinery/door/airlock/research{name = "Mech Bay"},/turf/open/floor,/area/space)
+"nO" = (/obj/structure/table/reinforced/rglass,/obj/structure/curtain/cloth,/obj/item/clothing/gloves/latex,/obj/item/clothing/gloves/latex,/turf/open/floor/carpet/black,/area/station/service/barber)
+"nV" = (/turf/open/floor/plating,/area/station/maintenance/aft/greater)
+"nZ" = (/obj/structure/chair,/turf/open/floor/iron/dark,/area/station/service/chapel)
+"oi" = (/obj/machinery/power/shuttle_engine/heater,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/window/reinforced/plasma/spawner/directional/south,/turf/open/floor/iron/smooth,/area/station/maintenance/port/aft)
+"on" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/station/solars/port/fore)
+"or" = (/obj/structure/hedge/opaque,/obj/structure/railing{dir = 8},/obj/structure/curtain/cloth/fancy/mechanical{icon_state = "bounty-open"; icon_type = "bounty"; id = "CCSalon"; name = "curtain"},/turf/open/floor,/area/station/service/barber)
+"os" = (/obj/structure/chair/pew/right,/turf/open/floor/iron/chapel{dir = 4},/area/station/service/chapel)
+"ou" = (/obj/structure/bookcase/random,/turf/open/floor/carpet,/area/station/service/library)
+"oH" = (/obj/structure/cable,/turf/open/floor/plating,/area/space)
+"oK" = (/obj/machinery/door/firedoor,/turf/open/floor,/area/space)
+"oQ" = (/obj/structure/lattice/catwalk,/obj/machinery/power/solar{id = "foreport"; name = "Fore-Port Solar Array"},/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/fore)
+"oR" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/meter,/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{dir = 1},/turf/open/floor/plating,/area/station/engineering/atmos)
+"oT" = (/obj/structure/chair/sofa/corp/left{dir = 8},/obj/machinery/light/directional/east,/turf/open/floor/carpet/black,/area/station/service/barber)
+"oX" = (/obj/structure/lattice/catwalk,/obj/structure/marker_beacon/olive,/turf/open/space/basic,/area/space)
+"oZ" = (/obj/structure/chair/sofa/corp/right{dir = 1},/turf/open/floor/carpet,/area/station/service/library)
+"pk" = (/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"pu" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/wood,/area/station/common/pool)
+"pz" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/fore)
+"pA" = (/obj/machinery/door/airlock{id_tag = "Dorm2"; name = "Dorm 2"},/obj/structure/cable,/turf/open/floor,/area/station/commons/dorms/room2)
+"pG" = (/obj/effect/turf_decal/bot_white,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"pI" = (/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room1)
+"pM" = (/turf/open/floor/catwalk_floor/iron,/area/space)
+"pU" = (/turf/closed/wall,/area/station/commons/dorms/room2)
+"pV" = (/turf/open/floor/wood/large,/area/station/service/barber)
+"qb" = (/turf/open/floor/iron,/area/station/maintenance/aft/lesser)
+"qh" = (/obj/structure/chair/comfy/black{dir = 4},/obj/machinery/light/directional/west,/turf/open/floor/wood/large,/area/station/service/barber)
+"qo" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/west,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"qp" = (/obj/structure/cable,/obj/machinery/door/firedoor,/turf/open/floor,/area/station/commons/dorms)
+"qs" = (/obj/structure/chair/sofa/corp{dir = 1},/turf/open/floor,/area/space)
+"qw" = (/obj/docking_port/stationary{dir = 2; dwidth = 1; height = 13; name = "arrivals"; shuttle_id = "arrivals_stationary"; width = 5},/turf/open/space/basic,/area/space)
+"qy" = (/obj/machinery/door/airlock{id_tag = "Dorm2"; name = "Dorm 1"},/obj/structure/cable,/turf/open/floor,/area/station/commons/dorms/room1)
+"qz" = (/obj/structure/mineral_door/wood,/obj/structure/fans/tiny,/turf/open/floor/wood,/area/station/common/pool/sauna)
+"qD" = (/obj/structure/bed/double,/obj/item/bedsheet/black/double,/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room2)
+"qK" = (/turf/closed/wall,/area/station/commons/dorms/room3)
+"qL" = (/obj/structure/dresser,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"qO" = (/obj/machinery/door/poddoor/shutters{dir = 1; id = "mechbay"; name = "Mech Bay Shutters"},/turf/open/floor,/area/space)
+"rc" = (/obj/machinery/door/firedoor,/obj/structure/cable,/turf/open/floor,/area/space)
+"re" = (/obj/structure/chair/pew/left,/turf/open/floor/iron/chapel{dir = 1},/area/station/service/chapel)
+"rw" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/space)
+"rA" = (/turf/closed/wall,/area/station/maintenance/solars/port/aft)
+"rC" = (/obj/effect/turf_decal/siding/white{dir = 4},/obj/machinery/cryopod{dir = 4},/turf/open/floor/iron/dark/smooth_large,/area/station/common/cryopods)
+"rL" = (/obj/machinery/power/shuttle_engine/huge,/turf/open/space/basic,/area/space)
+"rP" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/east,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"rR" = (/obj/structure/chair/sofa/corp/corner,/turf/open/floor/carpet/black,/area/station/service/barber)
+"rY" = (/turf/open/floor/iron/freezer,/area/station/commons/dorms/room3)
+"se" = (/turf/closed/wall,/area/station/common/cryopods)
+"sh" = (/obj/structure/table/rolling,/obj/item/hairbrush/comb,/obj/item/razor{pixel_x = -7; pixel_y = 3},/obj/item/scissors{pixel_x = 2; pixel_y = 3},/obj/item/straight_razor{pixel_x = 9; pixel_y = 2},/obj/item/hhmirror{pixel_x = 5; pixel_y = 9},/obj/machinery/light/directional/east,/turf/open/floor/wood/large,/area/station/service/barber)
+"sn" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"so" = (/obj/structure/cable,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"sA" = (/obj/effect/turf_decal/bot_white/left,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"sL" = (/obj/structure/chair/office{dir = 8},/turf/open/floor,/area/station/commons/fitness/recreation)
+"sQ" = (/obj/machinery/power/shuttle_engine/propulsion/burst,/turf/open/space/basic,/area/space)
+"ta" = (/obj/structure/chair/pew/left,/turf/open/floor/iron/chapel{dir = 8},/area/station/service/chapel)
+"tc" = (/obj/structure/cable,/obj/machinery/power/terminal{dir = 1},/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"td" = (/obj/structure/table/glass,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"tj" = (/turf/closed/wall,/area/station/solars/port/fore)
+"tm" = (/obj/effect/spawner/structure/window/reinforced/tinted,/turf/open/floor/iron/dark,/area/station/service/chapel)
+"to" = (/obj/item/kirbyplants/organic/applebush,/turf/open/floor/carpet,/area/station/service/library)
+"tq" = (/turf/open/floor/grass,/area/station/hallway/primary/central)
+"tv" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/meter,/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible,/turf/open/floor/plating,/area/station/engineering/atmos)
+"tE" = (/obj/structure/lattice,/turf/closed/wall/r_wall,/area/space)
+"tR" = (/obj/structure/chair/sofa/corp/left{dir = 1},/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"tV" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/atmospherics/pipe/smart/simple/purple/visible{dir = 4},/turf/open/floor/plating,/area/station/engineering/atmos)
+"uc" = (/obj/structure/table/reinforced,/turf/open/floor,/area/station/service/hydroponics)
+"ud" = (/turf/open/floor/iron/white/smooth_large,/area/station/common/cryopods)
+"uk" = (/obj/machinery/shower/directional/north,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room2)
+"um" = (/obj/machinery/shower/directional/north,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room1)
+"uA" = (/obj/structure/closet,/turf/open/floor/wood,/area/station/common/pool)
+"uI" = (/obj/machinery/power/shuttle_engine/heater,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/window/reinforced/plasma/spawner/directional/south,/obj/structure/window/reinforced/plasma/spawner/directional/west,/turf/open/floor/iron/smooth,/area/station/maintenance/port/aft)
+"uT" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"uY" = (/turf/closed/wall,/area/station/service/hydroponics)
+"uZ" = (/obj/structure/lattice,/turf/open/space/basic,/area/space/nearstation)
+"vk" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"vn" = (/obj/structure/lattice/catwalk,/obj/machinery/power/solar{id = "foreport"; name = "Fore-Port Solar Array"},/obj/structure/cable,/turf/open/space/basic,/area/station/solars/starboard/fore)
+"vs" = (/obj/machinery/door/airlock/maintenance{name = "Chapel Maintenance"},/turf/open/floor/plating,/area/station/service/chapel)
+"vy" = (/obj/structure/sink/directional/west,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room3)
+"vH" = (/obj/structure/chair/sofa/corp/left,/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"vN" = (/turf/closed/wall,/area/station/service/chapel/office)
+"vP" = (/turf/closed/wall,/area/station/solars/starboard/fore)
+"wd" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"wo" = (/obj/structure/cable,/turf/open/floor/wood,/area/station/service/chapel/funeral)
+"wp" = (/turf/closed/wall,/area/station/hallway/primary/central)
+"wt" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{dir = 1},/turf/open/floor/plating,/area/station/engineering/atmos)
+"wu" = (/obj/structure/cable,/obj/machinery/power/solar_control{id = "forestarboard"; name = "Starboard Bow Solar Control"; dir = 8},/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"wx" = (/obj/structure/lattice,/obj/machinery/atmospherics/pipe/smart/simple/purple/visible{dir = 4},/turf/open/space/basic,/area/space/nearstation)
+"wF" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"wI" = (/obj/structure/cable,/turf/closed/wall,/area/space)
+"wM" = (/turf/open/floor/iron,/area/station/maintenance/port/aft)
+"wR" = (/obj/machinery/door/airlock/engineering{name = "Port Bow Solar Access"},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"wW" = (/obj/structure/weightmachine,/turf/open/floor/iron/white,/area/station/commons/fitness)
+"xb" = (/turf/open/floor/grass,/area/space)
+"xi" = (/obj/structure/toilet{dir = 1},/turf/open/floor/iron/freezer,/area/station/commons/dorms/room1)
+"xk" = (/turf/closed/wall/r_wall,/area/station/engineering/atmos)
+"xm" = (/turf/closed/wall,/area/station/service/library)
+"xn" = (/obj/structure/table/wood,/turf/open/floor/carpet,/area/station/service/library)
+"xv" = (/obj/machinery/power/smes,/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"xx" = (/turf/closed/wall,/area/station/commons/dorms/room1)
+"xy" = (/obj/structure/chair/office/light{dir = 8},/obj/machinery/light/directional/south,/turf/open/floor/carpet/black,/area/station/service/barber)
+"xI" = (/turf/closed/indestructible/wood,/area/station/common/pool/sauna)
+"xN" = (/obj/structure/table/glass,/turf/open/floor/carpet,/area/station/service/library)
+"xT" = (/obj/structure/cable,/turf/open/floor/carpet,/area/station/service/chapel)
+"xY" = (/obj/structure/mineral_door/wood,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room1)
+"yt" = (/turf/open/floor/plating,/area/space/nearstation)
+"yA" = (/turf/closed/wall,/area/station/service/barber)
+"yC" = (/turf/open/floor/glass/reinforced,/area/space)
+"yG" = (/obj/structure/toilet{dir = 1},/turf/open/floor/iron/freezer,/area/station/commons/dorms/room2)
+"yR" = (/turf/open/floor,/area/station/commons/fitness/recreation)
+"yT" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/structure/cable,/turf/open/floor/plating,/area/station/engineering/gravity_generator)
+"zb" = (/obj/structure/lattice,/obj/machinery/light/small/directional/south,/turf/open/space/basic,/area/space/nearstation)
+"zq" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor,/area/space)
+"zs" = (/obj/structure/chair/sofa/corp{dir = 8},/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"zx" = (/obj/structure/chair/sofa/corp/left{dir = 1},/turf/open/floor/carpet,/area/station/service/library)
+"zC" = (/obj/machinery/door/airlock{name = "Bar"},/turf/open/floor/plating,/area/space)
+"zD" = (/obj/machinery/door/airlock/maintenance,/turf/open/floor/plating,/area/space)
+"zE" = (/obj/structure/cable,/turf/open/floor/iron/dark,/area/station/service/chapel)
+"zP" = (/obj/structure/table/glass,/obj/item/flashlight/lamp/green,/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room1)
+"zU" = (/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/port/aft)
+"Ak" = (/turf/open/floor,/area/station/service/hydroponics)
+"Aq" = (/turf/open/floor/plating,/area/station/maintenance/port/aft)
+"Au" = (/obj/machinery/door/airlock/public/glass{name = "Funeral Parlour"},/obj/structure/cable,/turf/open/floor/wood,/area/station/service/chapel)
+"Av" = (/obj/machinery/door/airlock/external{name = "Arrival Airlock"; space_dir = 1},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/turf/open/floor,/area/space)
+"Aw" = (/obj/structure/lattice,/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{dir = 1},/turf/open/space/basic,/area/space/nearstation)
+"AB" = (/obj/machinery/door/airlock/highsecurity{name = "Gravity Generator Room"},/obj/structure/cable,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"AE" = (/turf/closed/wall/r_wall,/area/space)
+"AH" = (/obj/structure/lattice,/obj/structure/lattice,/turf/open/space/basic,/area/space/nearstation)
+"AJ" = (/obj/structure/table,/obj/item/reagent_containers/cup/glass/waterbottle{pixel_x = 7; pixel_y = 2},/obj/item/reagent_containers/cup/rag{pixel_y = 14},/obj/item/reagent_containers/cup/soda_cans/monkey_energy{pixel_x = -7; pixel_y = 7},/turf/open/floor/iron/white/smooth_half,/area/station/commons/fitness)
+"AR" = (/obj/structure/lattice,/turf/open/space/basic,/area/space)
+"AW" = (/obj/machinery/door/airlock/maintenance{name = "Hydroponics Maintenance"},/turf/closed/wall,/area/station/service/hydroponics)
+"Bb" = (/turf/open/floor/iron/chapel,/area/station/service/chapel)
+"Bf" = (/turf/open/floor/wood/large,/area/station/service/library)
+"Bh" = (/obj/structure/table/glass,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"Bi" = (/obj/structure/cable,/obj/structure/cable,/turf/open/floor,/area/station/commons/dorms)
+"Bu" = (/turf/open/floor/iron/freezer,/area/station/commons/dorms/room1)
+"BA" = (/obj/machinery/atmospherics/components/unary/outlet_injector/monitored/carbon_input,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"BC" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/south,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"BI" = (/obj/structure/chair/sofa/corp/left{dir = 8},/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"BN" = (/obj/machinery/door/airlock/engineering{name = "Port Quarter Solar Access"},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"BR" = (/obj/machinery/washing_machine,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"BS" = (/obj/machinery/portable_atmospherics/canister/carbon_dioxide,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"BV" = (/turf/closed/wall,/area/station/maintenance/solars/starboard/fore)
+"BX" = (/obj/machinery/door/airlock/maintenance,/turf/open/floor/plating,/area/station/maintenance/port/aft)
+"BZ" = (/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"Ch" = (/obj/structure/bed/double,/obj/item/bedsheet/black/double,/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room3)
+"Co" = (/obj/structure/chair/sofa/corp/left,/turf/open/floor/wood,/area/station/common/pool)
+"Cr" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/south,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"Cs" = (/obj/structure/table/wood,/obj/structure/window/spawner/directional/west,/obj/structure/window/spawner/directional/north,/turf/open/floor/carpet,/area/station/service/library)
+"Ct" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/station/solars/starboard/fore)
+"Cv" = (/obj/structure/mineral_door/wood,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room3)
+"CD" = (/obj/structure/table/glass,/turf/open/floor/wood,/area/station/common/pool)
+"CG" = (/turf/closed/wall,/area/station/service/chapel/funeral)
+"CK" = (/obj/machinery/door/airlock/public/glass{name = "Central Hallway"},/turf/open/floor,/area/station/commons/fitness)
+"CM" = (/turf/open/floor/iron/dark,/area/station/service/chapel)
+"CN" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/north,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"CP" = (/obj/structure/mop_bucket/janitorialcart{dir = 4},/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"CW" = (/obj/machinery/door/airlock/maintenance{name = "Atmospherics Maintenance"},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/aft/greater)
+"CX" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible,/turf/open/floor/plating,/area/station/engineering/atmos)
+"Dj" = (/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"Dn" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/atmospherics/pipe/smart/simple/purple/visible{dir = 4},/obj/machinery/meter,/turf/open/floor/plating,/area/station/engineering/atmos)
+"Dr" = (/turf/open/floor/wood,/area/station/service/chapel/office)
+"DC" = (/obj/structure/cable,/turf/open/floor,/area/station/commons/dorms)
+"DE" = (/obj/structure/lattice/catwalk,/obj/machinery/power/solar{id = "foreport"; name = "Fore-Port Solar Array"},/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/aft)
+"DJ" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/station/solars/starboard/fore)
+"DO" = (/turf/closed/wall,/area/station/maintenance/aft/greater)
+"DX" = (/obj/structure/lattice/catwalk,/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/space/basic,/area/station/solars/starboard/fore)
+"DY" = (/obj/effect/turf_decal/tile/bar/opposingcorners,/turf/open/floor,/area/space)
+"Ef" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/common/cryopods)
+"Ep" = (/obj/machinery/washing_machine,/obj/item/toy/figure/assistant{pixel_y = 11},/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"EA" = (/obj/effect/spawner/structure/window/hollow/reinforced/plasma,/obj/effect/spawner/structure/window/reinforced/plasma,/turf/open/floor/plating,/area/space)
+"EM" = (/turf/closed/wall,/area/station/commons/dorms/laundry)
+"ET" = (/obj/structure/chair/sofa/corp/right,/turf/open/floor/carpet/black,/area/station/service/barber)
+"Fu" = (/turf/open/space/basic,/area/space)
+"FH" = (/turf/closed/wall,/area/station/maintenance/port/aft)
+"FJ" = (/obj/structure/chair/sofa/corp/right{dir = 1},/turf/open/floor,/area/space)
+"FK" = (/obj/effect/spawner/structure/window/reinforced/plasma,/turf/open/floor/plating,/area/station/engineering/atmos)
+"FP" = (/obj/structure/sink/directional/west,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room1)
+"FZ" = (/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/aft/greater)
+"Ga" = (/obj/machinery/door/morgue{name = "Confession Booth"},/turf/open/floor/iron/dark,/area/station/service/chapel)
+"Gk" = (/obj/structure/table/reinforced/rglass,/obj/item/hairbrush{pixel_x = 2; pixel_y = 3},/obj/item/lipstick{pixel_x = 11; pixel_y = 11},/obj/item/lipstick/black{pixel_x = 11; pixel_y = 6},/obj/item/lipstick/jade{pixel_x = 11; pixel_y = 1},/obj/item/lipstick/purple{pixel_x = 11; pixel_y = -4},/obj/item/lipstick/quantum{pixel_x = 11; pixel_y = -9},/obj/structure/mirror/directional/east,/turf/open/floor/wood/large,/area/station/service/barber)
+"Gw" = (/obj/structure/cable,/turf/open/floor/wood/large,/area/station/service/barber)
+"Gx" = (/obj/structure/cable,/obj/machinery/power/terminal,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"GD" = (/turf/open/floor,/area/station/engineering/main)
+"GE" = (/obj/structure/table/reinforced,/turf/open/floor/iron/cafeteria,/area/station/service/kitchen)
+"Hi" = (/obj/structure/lattice,/obj/machinery/light/small/directional/west,/turf/open/space/basic,/area/space/nearstation)
+"Ht" = (/obj/machinery/power/solar_control{dir = 4; id = "aftport"; name = "Port Quarter Solar Control"},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"Hz" = (/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"HB" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 1},/obj/structure/cable,/turf/closed/wall,/area/station/maintenance/solars/port/aft)
+"HD" = (/obj/structure/table/wood,/turf/open/floor/iron/chapel,/area/station/service/chapel)
+"HG" = (/turf/closed/wall,/area/station/commons/fitness)
+"HK" = (/obj/machinery/door/airlock/engineering/glass{name = "Engineering Foyer"},/turf/open/floor,/area/station/engineering/main)
+"HN" = (/obj/structure/cable,/turf/open/floor,/area/space)
+"HP" = (/obj/machinery/atmospherics/components/unary/outlet_injector/monitored/oxygen_input,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"HW" = (/obj/machinery/gravity_generator/main,/obj/effect/turf_decal/bot_white,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"HY" = (/obj/machinery/door/airlock/public/glass{name = "Holodeck Door"},/obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{cycle_id = "holodeck"},/turf/open/floor,/area/station/commons/fitness/recreation)
+"Ia" = (/turf/open/floor/iron/chapel{dir = 4},/area/station/service/chapel)
+"Ih" = (/obj/machinery/door/airlock/maintenance,/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"Ii" = (/obj/structure/table/reinforced,/obj/effect/turf_decal/tile/bar/opposingcorners,/turf/open/floor/iron,/area/station/hallway/primary/central)
+"In" = (/obj/machinery/smartfridge/food,/turf/open/floor,/area/station/service/hydroponics)
+"Iq" = (/obj/machinery/door/airlock/maintenance,/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/aft/greater)
+"IF" = (/obj/machinery/door/airlock{name = "Bar"},/turf/open/floor,/area/space)
+"IH" = (/obj/structure/bed/double,/obj/item/bedsheet/black/double,/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room1)
+"IJ" = (/obj/structure/cable,/obj/machinery/door/airlock/engineering{name = "Starboard Quarter Solar Access"},/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"IK" = (/obj/structure/altar_of_gods,/obj/item/book/bible,/turf/open/floor/carpet,/area/station/service/chapel)
+"IS" = (/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"IV" = (/obj/machinery/light/small/directional/north,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"Ja" = (/obj/effect/spawner/structure/window,/obj/structure/window/fulltile,/turf/open/floor/plating,/area/space)
+"Jc" = (/obj/structure/sink/directional/west,/turf/open/floor/iron/freezer,/area/station/commons/dorms/room2)
+"Jk" = (/turf/open/floor/catwalk_floor/iron,/area/station/hallway/primary/central)
+"Jv" = (/obj/structure/sauna_oven,/turf/open/floor/wood,/area/station/common/pool/sauna)
+"Jw" = (/obj/machinery/atmospherics/components/unary/outlet_injector/monitored/mix_input{dir = 8},/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"Jx" = (/obj/structure/cable,/obj/machinery/power/smes,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"JA" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/commons/fitness)
+"JK" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/commons/dorms/room1)
+"JL" = (/obj/structure/dresser,/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"JQ" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/station/solars/port/aft)
+"JS" = (/turf/open/floor/iron/dark,/area/space)
+"JU" = (/obj/structure/lattice/catwalk,/turf/closed/wall,/area/station/maintenance/solars/starboard/fore)
+"JV" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/commons/dorms/room3)
+"JX" = (/obj/structure/table/wood,/obj/item/book/bible{pixel_y = 3},/obj/item/flashlight/flare/candle{pixel_x = 1; pixel_y = 10},/obj/item/flashlight/flare/candle{pixel_x = 12; pixel_y = 4},/turf/open/floor/iron/dark,/area/station/service/chapel)
+"Kb" = (/turf/open/floor/iron/white,/area/space)
+"Kd" = (/obj/structure/chair/sofa/corp/corner,/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"Kk" = (/obj/machinery/door/airlock/public{name = "Kitchen"},/turf/open/floor,/area/station/service/kitchen)
+"Ko" = (/obj/structure/chair/sofa/bench{dir = 4},/turf/open/floor/wood,/area/station/common/pool/sauna)
+"Kr" = (/obj/machinery/power/shuttle_engine/heater,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/window/reinforced/plasma/spawner/directional/south,/obj/structure/window/reinforced/plasma/spawner/directional/east,/turf/open/floor/iron/smooth,/area/station/maintenance/port/aft)
+"KA" = (/turf/open/floor/wood,/area/space)
+"KF" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"Ld" = (/obj/machinery/door/airlock/public/glass{name = "Chapel Office"},/turf/open/floor,/area/station/service/chapel/office)
+"Ll" = (/turf/open/floor/engine{name = "Holodeck Projector Floor"},/area/station/holodeck/rec_center)
+"Lt" = (/obj/effect/spawner/structure/window/reinforced/plasma,/obj/machinery/atmospherics/pipe/smart/simple/green/visible{dir = 4},/obj/machinery/meter,/turf/open/floor/plating,/area/station/engineering/atmos)
+"Lx" = (/obj/machinery/power/terminal{dir = 4},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"Ly" = (/turf/closed/wall,/area/station/service/chapel)
+"LJ" = (/turf/open/floor/carpet,/area/station/service/chapel)
+"LS" = (/turf/open/floor/iron/white,/area/station/commons/fitness)
+"LU" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper,/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/aft)
+"Mb" = (/obj/machinery/door/window/right/directional/north{base_state = "left"; icon_state = "left"; name = "Library Desk Door"; req_access = list("library")},/turf/open/floor/carpet,/area/station/service/library)
+"Mu" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"MI" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/aft)
+"MK" = (/obj/structure/chair/sofa/corp{dir = 8},/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"Nd" = (/turf/open/floor/wood,/area/station/service/chapel/funeral)
+"Ng" = (/obj/structure/cable,/obj/machinery/power/smes,/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"Nq" = (/obj/structure/cable,/turf/open/floor/catwalk_floor/iron,/area/station/commons/dorms)
+"NN" = (/obj/structure/bedsheetbin,/obj/structure/closet/crate/trashcart/laundry,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"NO" = (/obj/machinery/photocopier,/obj/effect/turf_decal/bot_white,/turf/open/floor/carpet,/area/station/service/library)
+"NS" = (/obj/structure/curtain/cloth/fancy/mechanical{icon_state = "bounty-open"; icon_type = "bounty"; id = "CCSalon"; name = "curtain"},/turf/open/floor/iron/stairs/old,/area/station/service/barber)
+"NU" = (/obj/effect/turf_decal/trimline/dark_red,/obj/structure/punching_bag,/turf/open/floor/iron/white/textured_large,/area/station/commons/fitness)
+"Oo" = (/obj/machinery/power/shuttle_engine/large,/turf/open/space/basic,/area/space)
+"Ou" = (/obj/structure/lattice/catwalk,/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/space/basic,/area/station/solars/port/aft)
+"OG" = (/obj/structure/reagent_dispensers/water_cooler,/obj/structure/window/spawner/directional/south,/turf/open/floor/carpet/black,/area/station/service/barber)
+"OH" = (/obj/structure/chair/pew/right,/turf/open/floor/iron/chapel,/area/station/service/chapel)
+"OM" = (/obj/structure/hedge/opaque,/obj/structure/railing{dir = 4},/obj/structure/curtain/cloth/fancy/mechanical{icon_state = "bounty-open"; icon_type = "bounty"; id = "CCSalon"; name = "curtain"},/turf/open/floor,/area/station/service/barber)
+"ON" = (/turf/closed/wall,/area/space)
+"OX" = (/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"OY" = (/turf/open/floor,/area/station/service/chapel/office)
+"OZ" = (/turf/open/floor,/area/station/hallway/primary/central)
+"Pf" = (/obj/structure/chair{dir = 1},/turf/open/floor/iron/dark,/area/station/service/chapel)
+"Pj" = (/obj/structure/chair/sofa/corp/left{dir = 8},/turf/open/floor/carpet/black,/area/station/commons/dorms/room3)
+"Pp" = (/obj/machinery/door/airlock/glass{name = "Bar"},/turf/open/floor,/area/space)
+"Ps" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/north,/turf/open/floor/iron/dark,/area/station/service/chapel)
+"Px" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/south,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"PO" = (/obj/machinery/air_sensor/carbon_tank,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"PR" = (/turf/open/floor/plating,/area/space)
+"PW" = (/obj/structure/chair/sofa/bench,/turf/open/floor/wood,/area/station/common/pool/sauna)
+"PX" = (/obj/effect/spawner/structure/window,/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"Qd" = (/obj/item/kirbyplants/organic/applebush,/turf/open/floor,/area/space)
+"Ql" = (/obj/structure/window/fulltile,/turf/open/floor/plating,/area/station/commons/dorms/room2)
+"Qo" = (/obj/structure/cable,/obj/machinery/door/airlock/maintenance,/turf/open/floor/plating,/area/station/maintenance/port/aft)
+"Qw" = (/obj/structure/table/reinforced/rglass,/obj/structure/curtain/cloth,/obj/item/reagent_containers/medigel/aiuri{desc = "A medicinal massage oil containing aiuri, normally gives a nice cooling effect on the bodypart where it's applied whilst also healing minor burns."; name = "Cooling massage oil"; pixel_x = 2; pixel_y = 5},/obj/item/reagent_containers/medigel/libital{desc = "A medicinal massage oil that warms up and relaxes the skin and muscles, great at both treating backpains, cramps and bruises."; name = "Relaxing massage oil"; pixel_x = -4; pixel_y = 5},/turf/open/floor/carpet/black,/area/station/service/barber)
+"Qx" = (/obj/machinery/portable_atmospherics/canister/oxygen,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"QA" = (/obj/structure/mineral_door/wood,/turf/open/floor/iron/freezer,/area/station/service/chapel/office)
+"QT" = (/obj/effect/spawner/structure/window,/turf/open/floor/plating,/area/space)
+"Ra" = (/turf/open/floor/carpet/black,/area/station/commons/dorms/room2)
+"Rb" = (/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room3)
+"Rj" = (/obj/machinery/door/morgue{name = "Confession Booth (Chaplain)"; req_access = list("chapel_office")},/turf/open/floor/iron/dark,/area/station/service/chapel)
+"Rl" = (/obj/item/kirbyplants/organic/applebush,/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"RF" = (/obj/machinery/door/airlock/public/glass{name = "Library"},/turf/open/floor,/area/station/service/library)
+"RG" = (/obj/structure/chair/sofa/corp,/turf/open/floor,/area/space)
+"RV" = (/turf/open/floor/iron/freezer,/area/station/service/chapel/office)
+"RW" = (/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room2)
+"Sf" = (/obj/machinery/door/airlock/engineering/glass{name = "Engineering Foyer"},/turf/open/floor/iron,/area/station/engineering/main)
+"Sk" = (/turf/open/floor/iron,/area/station/engineering/main)
+"SC" = (/obj/structure/cable,/obj/structure/cable,/turf/open/floor/catwalk_floor/iron,/area/station/commons/dorms)
+"SJ" = (/obj/machinery/power/shuttle_engine/heater,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/window/reinforced/plasma/spawner/directional/south,/turf/open/floor/iron/smooth,/area/station/maintenance/aft/lesser)
+"SL" = (/obj/machinery/door/airlock/maintenance{name = "Atmospherics Maintenance"},/obj/structure/cable,/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"SW" = (/obj/machinery/atmospherics/components/unary/vent_pump/siphon/monitored/oxygen_output,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"Ti" = (/turf/closed/wall,/area/station/maintenance/solars/port/fore)
+"Ts" = (/obj/effect/spawner/liquids_spawner,/turf/open/floor/iron/pool,/area/station/common/pool)
+"Tz" = (/obj/structure/table/wood,/obj/structure/towel_bin,/turf/open/floor/wood,/area/station/common/pool)
+"TI" = (/obj/machinery/door/airlock{name = "Salon"; id_tag = "CCSalon"},/obj/structure/cable,/turf/open/floor,/area/station/service/barber)
+"Uh" = (/obj/structure/toilet{pixel_y = 13},/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"Uu" = (/obj/structure/bed/pod{dir = 4},/obj/structure/mirror/directional/west,/turf/open/floor/carpet/black,/area/station/service/barber)
+"Vl" = (/turf/closed/wall,/area/station/maintenance/aft/lesser)
+"Vo" = (/turf/open/floor/wood,/area/station/common/pool/sauna)
+"Vs" = (/obj/structure/cable,/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"Vt" = (/obj/machinery/door/firedoor,/turf/open/floor,/area/station/hallway/primary/central)
+"Vy" = (/obj/structure/chair/sofa/corp/left,/turf/open/floor,/area/space)
+"VK" = (/turf/open/floor,/area/station/commons/dorms)
+"Wa" = (/obj/structure/table/reinforced/rglass,/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"Wb" = (/obj/effect/spawner/structure/window,/turf/open/floor/plating,/area/station/maintenance/solars/port/fore)
+"WE" = (/turf/open/floor/carpet/black,/area/station/commons/dorms/room1)
+"WL" = (/obj/docking_port/stationary{dir = 2; dwidth = 9; height = 25; name = "MetaStation emergency evac bay"; shuttle_id = "emergency_home"; width = 29},/turf/open/space/basic,/area/space)
+"WU" = (/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"WV" = (/turf/closed/wall,/area/station/engineering/atmos)
+"WX" = (/obj/structure/cable,/obj/machinery/door/airlock/external{name = "Solar Maintenance"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/turf/open/floor/plating,/area/station/maintenance/solars/starboard/fore)
+"Xa" = (/obj/structure/rack,/obj/item/pushbroom,/obj/item/mop,/obj/item/mop,/obj/item/storage/bag/trash,/obj/item/reagent_containers/cup/bucket,/obj/item/reagent_containers/cup/bucket,/obj/item/clothing/suit/caution,/obj/item/storage/box/lights/mixed,/obj/item/clothing/suit/caution,/obj/item/clothing/suit/caution,/obj/item/clothing/suit/caution,/obj/item/clothing/gloves/color/blue,/obj/item/clothing/gloves/botanic_leather,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"Xg" = (/obj/machinery/air_sensor/oxygen_tank,/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"Xk" = (/obj/machinery/cryopod{dir = 8},/obj/effect/turf_decal/siding/white{dir = 8},/turf/open/floor/iron/dark/smooth_large,/area/station/common/cryopods)
+"Xl" = (/obj/structure/lattice,/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible,/turf/open/space/basic,/area/space/nearstation)
+"Xr" = (/obj/structure/chair/comfy/black{dir = 4},/turf/open/floor/carpet,/area/station/service/library)
+"Xv" = (/obj/structure/reagent_dispensers/watertank/high,/turf/open/floor/wood,/area/station/common/pool)
+"XE" = (/obj/structure/cable,/obj/structure/cable,/obj/structure/cable,/turf/open/floor/catwalk_floor/iron,/area/space)
+"XI" = (/obj/structure/cable,/obj/machinery/power/apc/auto_name/directional/west,/turf/open/floor/wood/large,/area/station/service/barber)
+"XO" = (/obj/machinery/door/airlock/maintenance,/turf/open/floor/plating,/area/station/maintenance/aft/lesser)
+"XP" = (/obj/structure/cable,/turf/open/floor/iron/freezer,/area/station/commons/dorms/laundry)
+"XT" = (/turf/open/floor/carpet/black,/area/station/service/barber)
+"XW" = (/obj/structure/chair/sofa/corp/left,/turf/open/floor/carpet,/area/station/service/library)
+"Ya" = (/turf/closed/wall,/area/station/service/kitchen)
+"Yd" = (/turf/closed/wall,/area/station/engineering/gravity_generator)
+"Yh" = (/obj/structure/table/wood,/obj/item/food/grown/harebell{pixel_y = 7},/obj/item/food/grown/harebell{pixel_x = 6; pixel_y = 6},/obj/item/food/grown/harebell{pixel_x = -6; pixel_y = 10},/obj/item/food/grown/poppy{pixel_y = 2},/obj/item/food/grown/poppy{pixel_x = -8; pixel_y = 7},/obj/item/food/grown/poppy{pixel_x = 7; pixel_y = 7},/turf/open/floor/iron/dark,/area/station/service/chapel)
+"Yk" = (/obj/machinery/door/airlock/maintenance,/turf/open/floor/plating,/area/station/service/library)
+"Yl" = (/obj/machinery/door/airlock/external{name = "Arrival Airlock"; space_dir = 1},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/turf/open/floor,/area/space)
+"Yw" = (/turf/closed/wall,/area/station/commons/dorms)
+"Yx" = (/obj/structure/cable,/turf/open/floor,/area/station/service/chapel/office)
+"Yz" = (/obj/machinery/door/airlock/command/glass{name = "Gravity Generator Area"},/obj/structure/cable,/turf/open/floor/iron/dark,/area/station/engineering/gravity_generator)
+"YF" = (/obj/structure/table/glass,/obj/item/flashlight/lamp/green,/turf/open/floor/glass/reinforced,/area/station/commons/dorms/room3)
+"YH" = (/obj/structure/chair/comfy/barber_chair{dir = 4},/turf/open/floor/wood/large,/area/station/service/barber)
+"YS" = (/obj/structure/cable,/obj/machinery/door/airlock/maintenance{name = "Chapel Office Maintenance"},/turf/open/floor/plating,/area/station/service/chapel/office)
+"YW" = (/obj/machinery/door/firedoor,/turf/open/floor,/area/station/commons/dorms)
+"Zd" = (/obj/structure/chair/sofa/bench/left,/turf/open/floor/wood,/area/station/common/pool/sauna)
+"Zf" = (/obj/structure/chair/sofa/bench/right{dir = 4},/turf/open/floor/wood,/area/station/common/pool/sauna)
+"ZB" = (/turf/open/floor/carpet/black,/area/station/commons/fitness/recreation)
+"ZC" = (/obj/machinery/atmospherics/components/unary/vent_pump/siphon/monitored/mix_output{dir = 8},/turf/open/floor/engine/air,/area/station/engineering/atmos)
+"ZH" = (/obj/structure/table/wood,/obj/structure/window/spawner/directional/north,/turf/open/floor/carpet,/area/station/service/library)
+"ZW" = (/obj/effect/spawner/structure/window/reinforced/plasma,/turf/open/floor/plating,/area/space)
+
+(1,1,1) = {"
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuEAEAEAEAEAFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuZWZWZWZWgBgBgBZWZWZWZWFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEZWZWZWgBgBgBgBgBgBgBgBgBZWZWZWAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEAEAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEAEAEAEAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEFuFuFuAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEFuFuFuAEAEAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuAEAEAEAEgBgBgBgBgBgBgBgBgBAEAEAEAEFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEgBAEgBAEAEAEAEFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEgBAEgBAEAEAEAEAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBpMgBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMpMpMpMpMpMpMpMpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMgBgBgBgBgBgBgBpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMgBxbxbxbxbxbgBpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMgBxbxbxbxbxbgBpMgBgBgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMgBxbxbxbxbxbgBpMpMAEgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMgBxbxbxbxbxbgBpMgBgBgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBpMgBxbxbxbxbxbgBpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEgBpMgBgBgBgBgBgBgBpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuZWgBgBgBAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEgBpMpMpMpMpMpMpMpMpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEgBgBgBgBgBpMgBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEgBgBgBAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBAEAEAEAEAEgBAEgBAEAEAEAEAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEAEAEgBgBgBAEQTgBQTAEQTgBQTAEgBAEgBAEgBAEAEgBgBgBAEgBpMgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuZWgBgBgBgBgBAEgBgBgBAEgBgBgBAEgBgBgBAEgBgBgBQTgBgBgBgBgBgBAEgBpMgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEgBgBgBgBgBgBgBgBgBAEgBgBgBAEgBgBgBAEgBgBgBQTgBgBgBgBgBgBAEgBpMgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONONONONONONONONONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEgBgBgBgBgBAEgBgBgBAEgBgBgBAEgBgBgBAEgBgBgBQTgBgBgBgBgBgBAEgBpMgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEAEAEAEAEgBgBgBAEQTQTQTAEQTQTQTAEgBAEgBAEAEAEQTgBQTAEAEgBpMgBONgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuAEgBgBgBAEgBgBgBgBgBgBgBgBgBpMgBgBgBgBgBgBgBgBgBgBpMgBgBgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEFuFuFuFuFuFuFuAEgBgBgBAEgBgBgBgBgBgBgBgBgBpMpMpMpMpMpMpMpMpMgBpMpMpMgBpMFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuAEgBgBgBAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBpMgBgBgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuAEgBgBgBAEQTQTQTAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEAEgBpMgBAEgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEFuFuFuFuFuFuFuFuAEgBgBgBAEgBgBgBAEFuFuPRPRPRPRPRPRPRPRPRPRPRPRPRgBpMgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEAEAEAEAEAEAEgBgBgBAEgBgBgBAEFuFuPRPRAEAEAEAEAEAEAEAEAEAEAEgBpMgBAEAEAEAEAEAEAEAEAEAEAEPRPRFuFuFuFuFuFuONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBgBgBgBgBgBgBgBgBAEgBgBgBAEFuONPRPRAEFuFuARFuFuFuARFuFuZWgBpMgBZWFuFuARFuFuFuARFuFuAEPRPRONONONONONONONONONgBONONONONARARARARoXFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBgBgBgBgBgBgBgBgBAEAEgBAEAEFuONPRPRAEFuFuAEAEAEAEAEAEFuAEgBpMgBAEFuAEAEZWZWAEAEFuFuAEPRPRONgBgBgBgBgBONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBFuONPRPRAEARtEAEJSJSJSJSAEAEAEgBpMgBAEtEAEJSJSJSJSAEAEARAEPRPRONgBgBgBgBgBONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEgBAEAEAEgBAEAEAEgBgBgBgBgBgBgBgBFuONPRPRAEFuAEJSJSJSJSJSAEJSAEgBpMgBAEJSAEJSJSJSJSJSAEFuAEPRPRONgBgBgBgBgBONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEgBgBgBgBgBgBgBgBFuONPRPRAEFuAEJSJSJSJSJSJSJSJSgBpMgBJSJSJSJSJSJSJSJSAEFuAEPRPRONgBgBgBgBgBONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuFuONPRPRAEFuAEJSJSJSJSJSAEJSAEgBpMgBAEJSAEJSJSJSJSJSAEFuAEPRPRONgBgBgBgBgBONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuFuONPRPRAEARtEAEJSJSJSJSAEAEAEgBpMgBAEtEAEJSJSJSJSAEAEARAEPRPRONgBgBgBgBgBONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuONONPRPRAEFuFuAEAEAEAEAEAEFuAEgBpMgBAEFuAEAEZWZWAEAEFuFuAEPRPRONONONONgBONONgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuONPRPRPRAEFuFuARFuFuFuARFuFuZWgBpMgBZWFuFuARFuFuFuARFuFuAEPRPRPRONgBgBgBgBgBgBgBgBgBgBgBONONONONgBgBONgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEAEAEAEAEAEAEAEAEFuFuFuFuFuFuFuFuONPRPRgFgFgFgFgFgFgFgFgFgFgFgFVtVtVtgFgFgFgFgFgFgFgFgFgFgFgFPRPRONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFugBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRwptqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRPRONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFugBgBgBgBgBgBFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRwptqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRPRONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFugBgBgBgBgBAEFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRwptqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRONONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEAEAEAEAEAEAEFuFuFuFuFuONONONONONONONONONONONONPRwptqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONONONONONONONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBgBONPRwptqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONgBgBgBgBgBgBQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAEFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBgBONPRwptqtqtqtqtqOZOZOZOZOZOZOZJkOZOZOZOZOZOZOZtqtqtqtqtqwpPRONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONgBgBgBgBgBgBQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuqwFuAEFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBgBONPRwptqtqtqtqtqOZJkJkJkJkJkJkJkJkJkJkJkJkJkOZtqtqtqtqtqwpPRONONONgBONONgBgBONONgBgBgBgBgBgBONgBgBgBgBONONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONONONONONONONONFuFuONONQTQTQTgBONgBgBgBgBgBONPRwptqtqtqtqtqOZJkOZOZOZOZOZOZOZOZOZOZOZJkOZtqtqtqtqtqwpPRPRONgBgBgBgBgBgBgBONgBgBgBgBgBgBONgBgBgBgBAvgBYlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAvgBYlgBgBgBgBgBONONONONgBgBgBgBgBONgBgBgBgBgBONPRwptqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqwpPRPRONgBgBgBgBgBgBgBONgBgBgBgBgBgBONQTgBQTQTONONONFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTQTQTgBgBgBgBgBONgBgBONgBQTQTgBONONONONONgBONONPRwptqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqwpPRPRONgBgBgBgBgBgBgBONgBgBgBgBgBgBONgBgBgBgBAvgBYlWLFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTgBgBgBgBgBgBgBONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBwptqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqwpONzDONONONoKoKoKONONONONONONONONONONgBgBgBgBQTQTQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTgBgBgBgBgBgBgBoKgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBVtOZOZOZOZOZOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZOZOZOZOZOZVtgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBoKgBgBgBgBgBgBQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTgBgBgBgBgBgBgBoKpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMVtJkJkJkJkJkJkJkOZtqtqtqtqtqtqtqtqtqOZJkJkJkJkJkJkJkVtpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMoKgBgBgBgBgBgBQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTgBgBgBgBgBgBgBoKgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBVtOZOZOZOZOZOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZOZOZOZOZOZVtgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBoKgBgBgBgBgBgBQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTgBgBgBgBgBgBgBONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBwptqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqwpONONONONONONONONONONONONONONONONONONgBgBgBgBQTQTQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuQTQTQTgBgBgBgBgBONONgBuYuYuYbruYuYiMiMiMYaYaKkYaYaYatqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqwpPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRONgBgBgBgBAvgBYlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuAvgBYlgBgBgBgBgBONONPRuYAkAkAkAkuYnvnvnvYabFbFbFbFYatqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqwpPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRzDgBgBgBgBQTQTQTFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONONONONONONONONPRPRuYAkAkAkAkuYnvnvnvYabFbFbFbFYatqtqtqtqtqOZJkOZOZOZOZOZOZOZOZOZOZOZJkOZtqtqtqtqtqwpPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRONgBgBgBgBAvgBYlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRPRPRPRPRPRONPRuYuYAkAkAkAkuYnvnvnvYabFbFbFbFfOtqtqtqtqtqOZJkJkJkJkJkJkJkJkJkJkJkJkJkOZtqtqtqtqtqwpPRPRHGHGHGHGseseseseEMEMEMEMEMYwYwYwqKqKqKqKqKqKqKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRPRPRPRPRPRPRPRuYAkAkAkAkAkuYuYuYfRYabFbFbFbFYatqtqtqtqtqOZOZOZOZOZOZOZJkOZOZOZOZOZOZOZtqtqtqtqtqwpPRPRHGNUAJNUserCudXkEMUhEMgDEMVKVKVKqKJLuTaKamgEJVFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONONONONONONONONPRuYAkAkAkAkAkAkAkuYbFbFbFbFbFbFGEtqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRPRHGLSLSLSserCudXkEMehEMehEMVKDCDCgXsosotdtdemJVFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBONPRuYAkAkAkAkAkAkAkuYbFbFbFbFbFbFGEtqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpPRPRHGmqLSwWserCudXkEMHzgAHzEMVKNqVKqKpkBCpkpkPjJVFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBONPRuYAkAkAkAkAkAkAkInbFbFbFbFbFbFGEtqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpONzDHGJACKJAseEferEfEMqoXPXPgKDCNqVKqKCvqKqKRbRbJVFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBONPRuYAkAkAkAkAkAkAkucbFbFbFbFbFbFGEtqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpyRyRyRyRyRyRyRyRyRyREMEpHzBREMVKSCVKqKrYvyqKRbChJVFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBONPRuYAkAkAkAkAkAkAkuYbFbFbFbFbFbFYatqtqtqtqtqtqtqtqtqtqtqOZJkOZtqtqtqtqtqtqtqtqtqtqtqwpyRyRyRyRyRyRyRyRyRyREMHzHzHzEMVKNqVKqKdNjeqKRbYFJVFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONgBgBgBgBgBgBgBONPRuYuYuYuYuYAWuYuYuYYaYaYaYaYaYaYawpwpwpIiIiIiIiIiIiwpwpVtVtVtwpwpwpwpwpwpwpwpwpwpwpwpyRyRyRRlwdvHRlyRyRyREMCPNNXaEMVKNqVKqKpUpUpUpUpUpUpUFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRONDYDYDYDYDYDYDYONgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRyRZBWaWaZByRyRyREMEMEMEMEMVKBiBiVKpUqLhwsndeKdQlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONONONONONONONONONONONONONONONPRPRzCDYDYDYDYDYDYDYONgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRyRRltRfyRlyRyRyRyRyRyRyRyRVKVKNqDCpAkGkGBhBhMKQlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbKbONKbKbKbKbKbKbKbONPRPRONDYDYDYDYDYDYDYPpgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRyRyRyRyRyRyRyRyRyRmymymymyVKVKNqVKpURaCrRaRaBIQlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbKbONKbKbKbKbKbKbKbONONPRONONONONONDYDYDYONgBpMgBJaLlLlLlLlLlLlLlLlLlHYyRyRyRyRyRyRyRyRyRyRyRyRmymymymyVKVKNqVKpUfHpUpURWRWQlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbKbONKbKbKbKbKbKbKbONKbKbKbKbKbKbONDYDYDYONgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRaiaiaiaiaiaiaiaiyRmymymymyVKVKSCVKpUbjJcpURWqDQlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBONONPRONONONONKbONONONONONKbKbONONONONKbKbKbKbKbKbONDYDYDYONgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRaieVeVeVeVeVeVeFyRyRyRyRyRVKVKNqVKpUukyGpURWetQlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONgBgBgBgBgBgBgBONKbKbKbONKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbONONIFONONgBpMgBJaLlLlLlLlLlLlLlLlLlHYyRyRyRaieVuAuAuAuAuAaiyAyAyAyAyAyAVKNqVKpUxxxxxxxxxxxxxxFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBKbKbKbKbKbKbdOdOdOdOdOdOdOdOdOdOdOKbONONONONONONONONKAKAKAONgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRaifPaiaiaiaiaiyAUugWXTETrRyAVKBiDCVKxxfieAwFfnkiJKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONKbKbKbONKbKbKbKbKbKbKbKbKbKbKbdOKbKbKbKbKbKbKbKbONKAKAKAONgBpMgBJaLlLlLlLlLlLlLlLlLlkFyRyRyRaieVpuCoCDpuCoyAnOQwXTfGoTyAVKVKNqDCqyVsVsgmgmzsJKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONONPRONONONKbONONONONONONONONKbKbKbONKbKbKbKbKbKbONKAKAKAONgBpMgBJaLlLlLlLlLlLlLlLlLlkFjHsLyRaieVeVeVeVeVeVyAUuxydQXTOGyAyAVKNqVKxxWEPxWEWEgGJKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbONKAKAKAKAONONKbONKbONONKbKbKbKbONONONONONONoKoKoKONONONONONONONONONnbnbnbnbnbaieVeVeVeVeVeVyAyAyAOMNSorctyAVKNqVKxxxYxxxxpIpIJKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbONKAKAKAKAQTKbKbKbKbKbKbKbKbKbKbKbONgBgBgBgBgBpMgBgBgBgBgBONgBgBgBONxIeXPWZdxITzeVeVTsTsTsTsTsTsyAqhpVpVshyAVKNqVKxxBuFPxxpIIHJKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbONKAKAKAKAKbKbKbdOKbKbKbKbKbKbKbKbONgBfwaqaqaqaqaqaqaqfwgBONgBgBgBONxIKoVoVoqzeVeVeVTsTsTsTsTsTsyAXIGwYHGkyAVKNqVKxxumxixxpIzPJKFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONPRPRONKbKbKbKbONKAKAKAKAQTKbKbdOKbKbKbKbKbKbKbKbONgBaqgBgBgBgBgBgBgBaqgBONgBgBgBONxIZfcDJvxIXveVeVTsTsTsTshKTsyAaaGwpViryAYWqpYWxxxxxxxxxxxxxxFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBONONPRONONONONONONONONONONONONcfcfcfONQTQTONQTQTONONgBaqgBxbxbxbxbxbgBaqgBONONgBONONnbnbnbnbnbaiaiaiewewewewewewyAyATIyAyAyAgBaqgBgBgBQdzqRGVyrwFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONONONONONONONONONPRPRPRONgBgBgBgBgBgBgBgBgBgBgBpMgBgBgBgBgBgBgBgBoKgBaqgBxbxbxbxbxbgBaqgBoKgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBHNgBgBgBgBaqgBgBgByCyCyCyCrwFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRPRPRPRPRPRPRPRoHoHoHoHaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqrcaqfwgBxbxbxbxbxbgBXEaqrcaqaqaqaqfwaqaqaqaqaqaqaqfwaqaqaqaqaqaqaqaqaqaqaqaqaqHNHNgByCyCyCyCrwFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONPRPRPRPRPRPRPRPRONoHPRPRONgBgBgBgBgBgBgBgBgBgBgBpMgBgBgBgBgBgBgBgBoKgBaqgBxbxbxbxbxbgBaqgBoKgBgBgBgBgBgBgBgBgBgBgBgBHNgBgBgBgBgBgBgBgBgBgBgBgBgBgBHNgBQddpqsFJrwFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONONONONONONONONONONONoHONONONONONnJONqOqOqOONONONcfcfcfONQTQTONQTQTONONgBaqgBxbxbxbxbxbgBaqgBxmxmxmxmxmxmRFRFxmxmxmxmxmIqvNvNvNvNvNvNvNvNvNLyLyLyLyLyfZLyLyLyCGCGCGCGFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBONoHoHONnGnGnGnGnGnGnGnGnGgBONKbdOKbKbKbKbKbKbKbKbONgBaqgBgBgBgBgBgBgBaqgBxmououcaououBfBftocyXWtoxmFZvNRVvNDrDrDrvNOYOYLynZGaCMPsxTzEzEAuwocGNdCGFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBONPRoHONnGgBgBgBgBgBgBgBgBgBONKbdOdOdOdOdOdOdOKbKbONgBfwaqaqaqaqaqaqaqfwgBxmbObObObObOBfBfbObObObOxmFZvNRVQADrDrDrvNOYOYLytmLyreosLJreosLyNdNdNdCGFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBONPRoHONnGnGgBnGnGnGnGgBgBgBONKbKbKbKbKbKbKbKbKbKbONgBgBgBgBgBaqgBgBgBgBgBxmououcaououBfBfbObObObOYkFZvNRVvNDrDrDrvNOYOYRjPfLytaOHLJtaOHLyNdNdNdCGFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBONPRoHONgBnGnGgBgBgBgBgBgBgBONKbONKbONONONKbKbKbONONONONONONoKrcoKYdYdYdYdYdYdYdXrbObOBfBfbOCsZHMbxmFZvNvNvNDrDrDrvNOYOYLyLyLyCMCMLJCMCMLyNdNdNdCGFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuONgBgBgBgBgBgBgBgBgBONPRoHONgBgBgBgBgBgBgBgBgBgBONKbKbKbONKbKbKbKbKbKbKbKbKbKbONgBaqgBYdWUWUWUWUWUYdxnbObOBfBfbOlQbObOxmFZFZFZvNDrDrDrLdOYOYOYLyJXiLIaLJiLIaLyNdNdNdCGFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFutjtjtjgBgBgBgBgBgBgBgBONPRoHONgBgBgBgBgBgBgBgBgBgBONKbKbKbONKbKbKbKbKbKbKbKbKbKbONgBaqgBYdWUndpGsAWUYdXrbObOBfBfNOeKbObOxmnVnVFZvNvNvNvNvNOYYxbxLyYhbRHDIKjEBbLyCGCGCGCGvPFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuonontjgBgBgBgBgBgBgBgBONwIoHONONONaeONONONONONONONONKbONKbONONONONONKbKbKbKbKbKbONgBaqgBYdWUpGWUpGWUYdxmxmxmbeBfxmxmxmcJxmxmxmFZvNOYOYOYvNOYYxOYLyLyCMdCCMdCCMLynVnVvPDJDJFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBgBgBgBgBgBONgBHNONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONKbKbKbKbKbKbONgBaqgBYdWUsAHWndWUYdcyXWbObObObObOxmBfBfBfxmFZvNOYOYOYnmOYYxOYOYLdCMCMCMCMCMLynVnVvPDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBgBgBgBgBgBgBgBHNgBgBpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMpMgBgBKbKbKbKbKbKbONgBaqgBYdWUWUWUWUWUYdxNxNbObObObObOxmBfBfBfxmFZvNvNvNvNvNvNYSvNvNvNLyLyLyLyvsLynVnVvPDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBgBgBgBgBgBONgBHNONgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBpMgBONKbKbKbKbKbKbONgBaqgBYdyTyTYzyTyTYdzxoZbObObObObOxmBfBfBfxmFZFZFZFZFZFZFZFZFZFZFZFZFZFZFZFZFZFZFZvPDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQonTiTiTiTiTiONONONONONONoHONONONONONONONONONONONONONONONONgBpMgBONONONONONONONONgBaqgBYdWUWUWUWUieYdxmxmxmjpxmxmxmxmxmxmxmxmnVFZnVnVnVnVnVnVnVnVnVnVnVnVnVBVBVIJBVJUDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQonWbJxkICNwRoHoHoHoHoHoHauPRPRPRPRPRPRPRPRPRPRPRPRPRPRPRONgBpMgBONgBgBgBgBgBgBONgBaqaqABGxWUWUWUrPYdnVnVnVnVnVnVnVnVnVnVnVnVnVFZxkxkxkxkxkxkxkxkxkxkxkxkxkBVeGhvNgPXDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQonWbtcjGeBTiONONONONONONONONONONONONONONONONONONONONPRPRONgBpMgBONgBgBgBgBgBgBONgBaqgBYdgjieieieieYdfmfmfmfmfmnVnVnVnVnVnVnVnVFZxkuZAHuZuZAHuZAHuZuZAHuZxkBVjQISgSPXDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQonWbgokIkITigBgBgBONgBgBONgBgBgBgBgBgBgBgBgBgBgBgBONPRPRONgBpMgBgBgBgBgBgBgBgBONgBaqgBYdYdYdYdYdYdYdGDGDGDGDfmfmfmfmfmfmfmfmnVFZxkAHFKFKFKFKuZFKFKFKFKAHxkBVhvhvwuPXDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQonTiTiTikITigBgBgBONgBgBONgBgBgBgBgBgBgBgBgBgBgBgBONPRPRONgBpMgBONgBgBgBgBgBgBONgBaqgBfmGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDfmnVFZxkuZFKPOBSFKuZFKXgQxFKuZxkBVhvBVBVBVDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuaMpzOXkIMukITigBgBgBONgBgBONgBgBgBgBgBgBgBgBgBgBgBgBONONPRONgBpMgBONgBgBgBgBgBgBONgBaqgBfmGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDfmnVFZxkuZFKBAdGFKuZFKHPSWFKuZxkBVhvWXhvlECtDXFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQonTiTiTiTiTiONgBONONONgBONgBgBgBgBgBgBgBgBgBgBgBgBONgBgBONgBpMgBONONONONONONONONgBaqgBHKGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDfmnVFZxkAHFKoRoRFKuZFKtvtvFKuZxkBVBVBVBVBVDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBpMgBONgBgBgBgBgBONONgBHNgBfmGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDfmnVFZxkuZzbAwAwzbuZzbXlXlzbuZxkxkxkxkxkxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONgBgBONgBpMgBgBgBgBgBgBgBFHFHFHQoFHfmfmfmfmfmfmGDGDGDGDGDGDGDGDGDGDGDGDfmnVFZxkxkxkwtwtxkxkxkCXCXdRuZuZuZuZAHuZxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBgBgBgBgBgBgBgBgBgBgBgBgBONgBgBONgBONgBgBFHFHBXFHgBpMgBONgBgBgBgBgBFHAqAqzUzUzUzUzUzUBZfmGDGDGDGDGDGDGDGDGDGDGDGDfmnVFZWVipeMeMeMeMeMeMeMeMxkHiFKFKFKFKAHxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjONgBONONONgBONONONgBONONONgBONONONONONgBONONONFHAqAqFHgBgBgBONgBgBgBgBgBFHAqrArArArArABNrAIhfmGDGDGDGDGDGDGDGDGDGDGDGDfmDOCWWVlHeMeMeMeMeMeMeMeMtVwxDnZCahFKuZxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBONgBgBgBONgBgBgBONgBgBgBONgBgBgBgBgBgBgBFHAqAqFHFHBXFHFHFHFHFHFHFHFHAqrADjDjDjIVDjrABZfmGDGDGDGDGDGDGDGDGDGDGDGDfmSkiYWVlHeMeMeMeMeMeMeMeMiUkPLtJwdZFKuZxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBONgBgBgBONgBgBgBONgBgBgBONgBgBgBgBgBgBgBFHFHAqFHAqAqAqFHAqAqAqAqAqAqAqrALUrADjktfcrABZfmfmfmfmfmfmfmfmfmfmGDGDGDSfSkiYkDlHeMeMeMeMeMeMeMeMxkHiFKFKFKFKAHxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuoQontjgBgBgBONgBgBgBONgBgBgBONgBgBgBONgBgBgBgBgBgBgBFHAqAqAqAqAqAqAqAqAqAqAqAqAqAqrADjrAHtLxxvrABZBZBZBZBZBZBZBZBZBZfmGDGDGDfmiYiYWVeMeMeMeMeMeMeMeMeMxkuZAHuZuZAHuZxkDJvnFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuononFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHgBgBgBgBgBgBgBFHAqFHFHFHFHFHFHFHFHFHFHFHFHFHrAHBrArArArArAVlVlVlVlVlVlVlVlVlBZfmfmfmfmfmSLVlWVWVWVWVWVWVWVWVWVWVxkxkxkxkxkxkxkxkDJDJFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFutjtjFHAqAqAqAqwMwMwMwMwMwMwMwMwMwMwMFHFHFHFHFHFHFHFHFHAqdkAqfLJQJQJQJQJQJQJQJQJQJQJQMIJQJQJQJQJQJQJQJQJQJQJQKFjqvkBZBZBZBZBZBZBZjqjqVlqbqbqbqbqbqbqbqbqbqbjqjqjqjqjqVlVlvPFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFHFHAqAqAqAqwMwMwMwMwMwMwMwMwMwMwMcpAqAqAqAqAqAqAqAqAqFHFHFHdlJQDEDEDEDEiFiFiFDEDEOuDEDEDEDEDEDEDEDEDEJQVlVlVlVljqjqjqjqjqjqjqjqjqXOqbqbqbqbqbqbqbqbqbqbjqjqjqjqjqVlVlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFHFHAqAqAqAqwMwMwMFHuIoiKrFHuIoiKrFHAqAqAqAqAqAqAqAqFHFHFHFHFHFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuVlVlVlVlVljqjqjqjqjqjqjqjqVlhOSJbvVlhOSJbvVlqbqbjqjqjqjqjqVlVlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFHFHAqAqAqFHuIKrFHytytytFHytytytFHAqAqAqAqAqAqFHFHFHFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuVlVlVljqjqjqjqjqjqVlytytytVlytytytVlhObvVljqjqjqVlVlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFHFHFHFHFHytytFHFuFuFuFHFuFuFuFHAqAqFHFHFHFHFHFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuVlVlVlVlVljqjqVlFuFuFuVlFuFuFuVlytytVlVlVlVlVlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFHFHFHsQOoFusQrLFuFusQrLFuFuFHFHFHFHFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuVlVlVlVlrLFuFusQrLFuFusQOoFusQVlVlVlFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+FuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFuFu
+"}

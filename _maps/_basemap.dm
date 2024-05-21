@@ -21,6 +21,7 @@
 		// ARK STATION ADDITION START
 		#include "ark_map_files\ark_maps\KiloStation2.dmm"
 		#include "ark_map_files\ark_maps\OmegaStation.dmm"
+		#include "ark_map_files\ark_maps\project_ship.dmm"
 		// ARK STATION ADDITION END
 		#ifdef CIBUILDING
 			#include "templates.dm"
